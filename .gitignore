@@ -1,0 +1,41 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+Inlmn/node_modules
+
+RESTAPI/node_modules
+
+Inlmn/.pnp
+
+Inlmn/.pnp.js
+
+
+# testing
+
+Inlmn/coverage
+
+
+# production
+
+Inlmn/build
+
+
+# misc
+
+Inlmn/.DS_Store
+
+Inlmn/.env.local
+
+Inlmn/.env.development.local
+
+Inlmn/.env.test.local
+
+Inlmn/.env.production.local
+
+
+Inlmn/npm-debug.log*
+
+Inlmn/yarn-debug.log*
+
+Inlmn/yarn-error.log*
